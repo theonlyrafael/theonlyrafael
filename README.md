@@ -10,3 +10,10 @@
     src="https://skillicons.dev/icons?i=html,css,js,python,c,java,spring"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=flat-square"
+    alt="Profile views"
+  />
+</p>
