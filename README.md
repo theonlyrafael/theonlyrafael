@@ -7,6 +7,6 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,python"
+    src="https://skillicons.dev/icons?i=html,css,js,python,c"
   />
 </p>
