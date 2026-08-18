@@ -1,9 +1,3 @@
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=theonlyrafael&color=F20D0D&style=plastic"
-    alt="Profile views"
-  />
-</p>
 
 <p align="center">
   <img
