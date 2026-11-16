@@ -12,7 +12,7 @@
   <a href="#formacao">🎓 Formação</a> &nbsp; / &nbsp; <a href="#laboratorio">🧪 Laboratório</a> &nbsp; / &nbsp; <a href="#contribuicoes">🐍 Contribuições</a> &nbsp; / &nbsp; <a href="#contato">💬 Contato</a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
 
 <a id="formacao"></a>
 
@@ -46,6 +46,6 @@ Ideias ganham forma quando saem do papel. Por aqui, há espaço para:
   <a href="https://www.linkedin.com/in/rafalfraga/"><img src="https://img.shields.io/badge/LinkedIn-Rafael_Fraga-0A66C2?style=flat-square" alt="Visitar o LinkedIn de Rafael Fraga" /></a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
 
 <p align="center"><sub>Rafael Fraga · Sistemas de Informação · UFU</sub></p>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="24" viewBox="0 0 960 24" role="img" aria-label="Divisor animado">
+<defs><linearGradient id="fade"><stop stop-color="#58a6ff" stop-opacity="0"/><stop offset=".5" stop-color="#58a6ff"/><stop offset="1" stop-color="#39d3bb" stop-opacity="0"/></linearGradient></defs>
+<style>.signal{animation:travel 7s ease-in-out infinite}@keyframes travel{0%{transform:translateX(0);opacity:0}15%,85%{opacity:1}100%{transform:translateX(720px);opacity:0}}@media(prefers-reduced-motion:reduce){.signal{animation:none;transform:translateX(360px)}}</style>
+<path d="M80 12H880" stroke="url(#fade)" stroke-width="1"/><circle class="signal" cx="120" cy="12" r="3" fill="#39d3bb"/>
+</svg>
