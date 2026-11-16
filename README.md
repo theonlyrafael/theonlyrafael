@@ -9,3 +9,6 @@
 ## 🎓 Formação
 
 Estou cursando a **graduação em Sistemas de Informação pela Universidade Federal de Uberlândia (UFU)**. Este perfil é um espaço para compartilhar minha trajetória acadêmica e o que eu construir ao longo dela.
+
+> **Aprender. Conectar. Construir.**
+> Da curiosidade à próxima ideia, um passo de cada vez.
