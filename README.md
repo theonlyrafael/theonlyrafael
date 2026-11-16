@@ -16,3 +16,5 @@ Estou cursando a **graduação em Sistemas de Informação pela Universidade Fed
 ## 🧭 Por aqui
 
 Um espaço para reunir estudos, exercícios e projetos da minha jornada em Sistemas de Informação — conectando teoria e prática.
+
+[**Explorar meus repositórios →**](https://github.com/theonlyrafael?tab=repositories)
