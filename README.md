@@ -12,3 +12,7 @@ Estou cursando a **graduação em Sistemas de Informação pela Universidade Fed
 
 > **Aprender. Conectar. Construir.**
 > Da curiosidade à próxima ideia, um passo de cada vez.
+
+## 🧭 Por aqui
+
+Um espaço para reunir estudos, exercícios e projetos da minha jornada em Sistemas de Informação — conectando teoria e prática.
