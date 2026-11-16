@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="#-formação">Formação</a> · <a href="#-por-aqui">Repositórios</a> · <a href="#-vamos-conversar">Contato</a>
+  <a href="#formacao">🎓 Formação</a> &nbsp; / &nbsp; <a href="#laboratorio">🧪 Laboratório</a> &nbsp; / &nbsp; <a href="#contribuicoes">🐍 Contribuições</a> &nbsp; / &nbsp; <a href="#contato">💬 Contato</a>
 </p>
 
 ---
+
+<a id="formacao"></a>
 
 ## 🎓 Formação
 
@@ -23,11 +25,15 @@ Sou **estudante de graduação em Sistemas de Informação pela Universidade Fed
 | Bacharelado em **Sistemas de Informação** | Estudos, exercícios e projetos |
 | **Universidade Federal de Uberlândia · UFU** | Da teoria à prática, um passo de cada vez |
 
-## 🧭 Por aqui
+<a id="laboratorio"></a>
+
+## 🧪 Meu laboratório
 
 Um espaço para reunir estudos, exercícios e projetos da minha jornada em Sistemas de Informação — conectando teoria e prática.
 
 [**Explorar meus repositórios →**](https://github.com/theonlyrafael?tab=repositories)
+
+<a id="contato"></a>
 
 ## 💬 Vamos conversar?
 
