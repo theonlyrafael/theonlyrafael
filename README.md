@@ -37,6 +37,22 @@ Ideias ganham forma quando saem do papel. Por aqui, há espaço para:
 
 [**Entrar no laboratório →**](https://github.com/theonlyrafael?tab=repositories)
 
+<a id="contribuicoes"></a>
+
+## 🐍 Um commit de cada vez
+
+Meu calendário de contribuições virou um tabuleiro. A cobrinha percorre os dias e vai consumindo os quadradinhos pelo caminho.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+  <img src="assets/github-snake.svg" width="100%" alt="Animação de uma cobrinha percorrendo meu calendário real de contribuições no GitHub." />
+</picture>
+
+<p align="center"><sub>Cada quadradinho conta uma parte da jornada. Atualizado diariamente.</sub></p>
+
+<p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
+
 <a id="contato"></a>
 
 ## 💬 Vamos conversar?
