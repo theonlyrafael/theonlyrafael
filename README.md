@@ -58,10 +58,13 @@ Meu calendário de contribuições virou um tabuleiro. A cobrinha percorre os di
 ## 💬 Vamos conversar?
 
 <p align="center">
-  <a href="mailto:rafalfraga@gmail.com"><img src="https://img.shields.io/badge/Email-rafalfraga%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail para Rafael Fraga" /></a>
-  <a href="https://www.linkedin.com/in/rafalfraga/"><img src="https://img.shields.io/badge/LinkedIn-Rafael_Fraga-0A66C2?style=flat-square" alt="Visitar o LinkedIn de Rafael Fraga" /></a>
+  <a href="mailto:rafalfraga@gmail.com"><img src="https://img.shields.io/badge/Email-rafalfraga%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail para Rafael Fraga" /></a>
+  <a href="https://www.linkedin.com/in/rafalfraga/"><img src="https://img.shields.io/badge/LinkedIn-Rafael_Fraga-0A66C2?style=for-the-badge" alt="Visitar o LinkedIn de Rafael Fraga" /></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
 
-<p align="center"><sub>Rafael Fraga · Sistemas de Informação · UFU</sub></p>
+<p align="center">
+  <b>Curiosidade como ponto de partida. Aprendizado como caminho.</b><br />
+  <sub>Rafael · Sistemas de Informação · UFU</sub>
+</p>
