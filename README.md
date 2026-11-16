@@ -24,3 +24,4 @@ Um espaço para reunir estudos, exercícios e projetos da minha jornada em Siste
 Para trocar ideias sobre a graduação, projetos ou oportunidades, entre em contato:
 
 - **E-mail:** [rafalfraga@gmail.com](mailto:rafalfraga@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rafalfraga](https://www.linkedin.com/in/rafalfraga/)
