@@ -29,9 +29,13 @@ Sou **estudante de graduação em Sistemas de Informação pela Universidade Fed
 
 ## 🧪 Meu laboratório
 
-Um espaço para reunir estudos, exercícios e projetos da minha jornada em Sistemas de Informação — conectando teoria e prática.
+Ideias ganham forma quando saem do papel. Por aqui, há espaço para:
 
-[**Explorar meus repositórios →**](https://github.com/theonlyrafael?tab=repositories)
+- **Explorar** conceitos da graduação.
+- **Experimentar** soluções em exercícios e projetos.
+- **Compartilhar** o caminho, incluindo o que ainda está em construção.
+
+[**Entrar no laboratório →**](https://github.com/theonlyrafael?tab=repositories)
 
 <a id="contato"></a>
 
