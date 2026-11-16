@@ -36,3 +36,7 @@ Para trocar ideias sobre a graduação, projetos ou oportunidades, entre em cont
 
 - **E-mail:** [rafalfraga@gmail.com](mailto:rafalfraga@gmail.com)
 - **LinkedIn:** [linkedin.com/in/rafalfraga](https://www.linkedin.com/in/rafalfraga/)
+
+---
+
+<p align="center"><sub>Rafael Fraga · Sistemas de Informação · UFU</sub></p>
