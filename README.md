@@ -26,7 +26,7 @@ Um espaço para reunir estudos, exercícios e projetos da minha jornada em Siste
 [**Explorar meus repositórios →**](https://github.com/theonlyrafael?tab=repositories)
 
 <p align="center">
-  <a href="mailto:rafalfraga@gmail.com"><img src="https://img.shields.io/badge/Email-rafalfraga%40gmail.com-58A6FF?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail para Rafael Fraga" /></a>
+  <a href="mailto:rafalfraga@gmail.com"><img src="https://img.shields.io/badge/Email-rafalfraga%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail para Rafael Fraga" /></a>
   <a href="https://www.linkedin.com/in/rafalfraga/"><img src="https://img.shields.io/badge/LinkedIn-Rafael_Fraga-0A66C2?style=flat-square" alt="Visitar o LinkedIn de Rafael Fraga" /></a>
 </p>
 
