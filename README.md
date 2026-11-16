@@ -18,3 +18,9 @@ Estou cursando a **graduação em Sistemas de Informação pela Universidade Fed
 Um espaço para reunir estudos, exercícios e projetos da minha jornada em Sistemas de Informação — conectando teoria e prática.
 
 [**Explorar meus repositórios →**](https://github.com/theonlyrafael?tab=repositories)
+
+## 💬 Vamos conversar?
+
+Para trocar ideias sobre a graduação, projetos ou oportunidades, entre em contato:
+
+- **E-mail:** [rafalfraga@gmail.com](mailto:rafalfraga@gmail.com)
