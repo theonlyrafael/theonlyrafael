@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title desc">
+<title id="title">Rafael · Aprender. Conectar. Construir.</title>
+<desc id="desc">Capa azul com uma constelação de pontos animados e o nome Rafael.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#102d46"/></linearGradient><linearGradient id="line"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#39d3bb"/></linearGradient></defs>
+<style>.star{animation:pulse 4s ease-in-out infinite}.two{animation-delay:1s}.three{animation-delay:2s}@keyframes pulse{50%{opacity:.3}}@media(prefers-reduced-motion:reduce){.star{animation:none}}</style>
+<rect width="960" height="220" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#58a6ff" opacity=".2"><path d="M640 50 735 95 810 40 905 80 865 160 755 175 735 95M640 50 650 150 755 175M810 40 865 160"/></g>
+<g fill="#58a6ff"><circle class="star" cx="640" cy="50" r="4"/><circle class="star two" cx="735" cy="95" r="6"/><circle class="star three" cx="810" cy="40" r="4"/><circle class="star" cx="905" cy="80" r="4"/><circle class="star two" cx="865" cy="160" r="5"/><circle class="star three" cx="755" cy="175" r="4"/><circle class="star" cx="650" cy="150" r="3"/></g>
+<text x="48" y="55" fill="#39d3bb" font-family="monospace" font-size="14" letter-spacing="3">THEONLYRAFAEL / PROFILE</text>
+<text x="46" y="128" fill="#f0f6fc" font-family="Arial, sans-serif" font-weight="700" font-size="64">Olá, eu sou o Rafael.</text>
+<text x="48" y="168" fill="#b6cde3" font-family="Arial, sans-serif" font-size="20">Aprender. Conectar. Construir.</text>
+<rect x="48" y="193" width="140" height="3" rx="1.5" fill="url(#line)"/>
+</svg>

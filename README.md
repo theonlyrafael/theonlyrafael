@@ -1,4 +1,6 @@
-# Olá, eu sou o Rafael 👋
+<p align="center">
+  <img src="assets/header.svg" width="960" alt="Olá, eu sou o Rafael. Aprender. Conectar. Construir." />
+</p>
 
 **Estudante de graduação em Sistemas de Informação na Universidade Federal de Uberlândia (UFU).**
 
