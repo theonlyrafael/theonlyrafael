@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/header.svg" width="960" alt="Olá, eu sou o Rafael. Aprender. Conectar. Construir." />
+  <img src="assets/header.svg" width="960" alt="Olá, eu sou o Rafael. Estudante de graduação em Sistemas de Informação na Universidade Federal de Uberlândia (UFU)." />
 </p>
-
-**Estudante de graduação em Sistemas de Informação na Universidade Federal de Uberlândia (UFU).**
 
 <p align="center">
   <img src="assets/terminal.svg" width="800" alt="Terminal: estudante de graduação em Sistemas de Informação na Universidade Federal de Uberlândia (UFU). Aprendizado em andamento." />
