@@ -49,8 +49,6 @@ Meu calendário de contribuições virou um tabuleiro. A cobrinha percorre os di
   <img src="assets/github-snake.svg" width="100%" alt="Animação de uma cobrinha percorrendo meu calendário real de contribuições no GitHub." />
 </picture>
 
-<p align="center"><sub>Cada quadradinho conta uma parte da jornada. Atualizado diariamente.</sub></p>
-
 <p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
 
 <a id="contato"></a>
