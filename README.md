@@ -27,13 +27,9 @@ Sou **estudante de graduação em Sistemas de Informação pela Universidade Fed
 
 ## 🧪 Meu laboratório
 
-Ideias ganham forma quando saem do papel. Por aqui, há espaço para:
+Reúno aqui meus estudos, exercícios e projetos de Sistemas de Informação.
 
-- **Explorar** conceitos da graduação.
-- **Experimentar** soluções em exercícios e projetos.
-- **Compartilhar** o caminho, incluindo o que ainda está em construção.
-
-[**Entrar no laboratório →**](https://github.com/theonlyrafael?tab=repositories)
+[**Ver meus repositórios →**](https://github.com/theonlyrafael?tab=repositories)
 
 <a id="contribuicoes"></a>
 
@@ -60,6 +56,6 @@ Meu calendário de contribuições virou um tabuleiro. A cobrinha percorre os di
 
 <p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
 
-<p align="center"
+<p align="center">
   <sub>Rafael · Sistemas de Informação · UFU</sub>
 </p>
