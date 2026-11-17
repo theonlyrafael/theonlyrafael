@@ -62,7 +62,6 @@ Meu calendário de contribuições virou um tabuleiro. A cobrinha percorre os di
 
 <p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
 
-<p align="center">
-  <b>Curiosidade como ponto de partida. Aprendizado como caminho.</b><br />
+<p align="center"
   <sub>Rafael · Sistemas de Informação · UFU</sub>
 </p>
