@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#formacao">🎓 Formação</a> &nbsp; / &nbsp; <a href="#laboratorio">🧪 Laboratório</a> &nbsp; / &nbsp; <a href="#contribuicoes">🐍 Contribuições</a> &nbsp; / &nbsp; <a href="#contato">💬 Contato</a>
+  <a href="#formacao">🎓 Formação</a> &nbsp; / &nbsp; <a href="#laboratorio">🧪 Laboratório</a> &nbsp; / &nbsp; <a href="#contato">💬 Contato</a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
@@ -30,12 +30,6 @@ Sou **estudante de graduação em Sistemas de Informação pela Universidade Fed
 Reúno aqui meus estudos, exercícios e projetos de Sistemas de Informação.
 
 [**Ver meus repositórios →**](https://github.com/theonlyrafael?tab=repositories)
-
-<a id="contribuicoes"></a>
-
-## 🐍 Um commit de cada vez
-
-Meu calendário de contribuições virou um tabuleiro. A cobrinha percorre os dias e vai consumindo os quadradinhos pelo caminho.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
