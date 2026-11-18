@@ -4,7 +4,7 @@
 <rect x="1" y="1" width="798" height="216" rx="14" fill="#0d1117" stroke="#30363d"/>
 <path d="M1 40H799" stroke="#30363d"/>
 <circle cx="22" cy="21" r="5" fill="#ff5f57"/><circle cx="42" cy="21" r="5" fill="#febc2e"/><circle cx="62" cy="21" r="5" fill="#28c840"/>
-<g font-family="monospace" font-size="15"><text x="90" y="26" fill="#8b949e">rafael@ufu: ~/jornada</text>
+<g font-family="monospace" font-size="15">
 <text x="28" y="77" fill="#39d3bb">$ whoami</text><text x="28" y="107" fill="#e6edf3">Estudante de graduação em Sistemas de Informação</text><text x="28" y="137" fill="#e6edf3">Universidade Federal de Uberlândia (UFU)</text><text x="28" y="181" fill="#58a6ff">$ aprendendo</text></g>
 <g fill="#39d3bb"><circle class="dot" cx="175" cy="177" r="3"/><circle class="dot b" cx="189" cy="177" r="3"/><circle class="dot c" cx="203" cy="177" r="3"/></g><rect class="cursor" x="224" y="165" width="9" height="19" fill="#58a6ff"/>
 </svg>
