@@ -44,8 +44,8 @@ Reúno aqui meus estudos, exercícios e projetos de Sistemas de Informação.
 ## 💬 Vamos conversar?
 
 <p align="center">
-  <a href="mailto:rafalfraga@gmail.com"><img src="https://img.shields.io/badge/Email-rafalfraga%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail para Rafael Fraga" /></a>
-  <a href="https://www.linkedin.com/in/rafalfraga/"><img src="https://img.shields.io/badge/LinkedIn-Rafael_Fraga-0A66C2?style=for-the-badge" alt="Visitar o LinkedIn de Rafael Fraga" /></a>
+  <a href="mailto:rafalfraga@gmail.com"><img src="https://img.shields.io/badge/Email-rafalfraga%40gmail.com-EA4335?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail para Rafael Fraga" /></a>
+  <a href="https://www.linkedin.com/in/rafalfraga/"><img src="https://img.shields.io/badge/LinkedIn-Rafael_Fraga-0A66C2?style=plastic" alt="Visitar o LinkedIn de Rafael Fraga" /></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
